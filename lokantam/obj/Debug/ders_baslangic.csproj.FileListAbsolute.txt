@@ -1,0 +1,12 @@
+C:\Users\duldul\source\repos\ders_baslangic\bin\Debug\ders_baslangic.exe.config
+C:\Users\duldul\source\repos\ders_baslangic\bin\Debug\ders_baslangic.exe
+C:\Users\duldul\source\repos\ders_baslangic\bin\Debug\ders_baslangic.pdb
+C:\Users\duldul\source\repos\ders_baslangic\obj\Debug\ders_baslangic.csproj.AssemblyReference.cache
+C:\Users\duldul\source\repos\ders_baslangic\obj\Debug\ders_baslangic.Form1.resources
+C:\Users\duldul\source\repos\ders_baslangic\obj\Debug\ders_baslangic.Properties.Resources.resources
+C:\Users\duldul\source\repos\ders_baslangic\obj\Debug\ders_baslangic.csproj.GenerateResource.cache
+C:\Users\duldul\source\repos\ders_baslangic\obj\Debug\ders_baslangic.csproj.CoreCompileInputs.cache
+C:\Users\duldul\source\repos\ders_baslangic\obj\Debug\ders_baslangic.exe
+C:\Users\duldul\source\repos\ders_baslangic\obj\Debug\ders_baslangic.pdb
+C:\Users\duldul\source\repos\ders_baslangic\obj\Debug\ders_baslangic.admin_paneli.resources
+C:\Users\duldul\source\repos\ders_baslangic\obj\Debug\ders_baslangic.Form2.resources

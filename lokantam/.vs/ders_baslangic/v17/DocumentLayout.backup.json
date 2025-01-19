@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duldul\\source\\repos\\ders_baslangic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D39F2E63-D2F0-4C6E-BF58-AF893BBFEC76}|ders_baslangic.csproj|c:\\users\\duldul\\source\\repos\\ders_baslangic\\admin_paneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39F2E63-D2F0-4C6E-BF58-AF893BBFEC76}|ders_baslangic.csproj|solutionrelative:admin_paneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39F2E63-D2F0-4C6E-BF58-AF893BBFEC76}|ders_baslangic.csproj|C:\\Users\\duldul\\source\\repos\\ders_baslangic\\admin_paneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D39F2E63-D2F0-4C6E-BF58-AF893BBFEC76}|ders_baslangic.csproj|solutionrelative:admin_paneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39F2E63-D2F0-4C6E-BF58-AF893BBFEC76}|ders_baslangic.csproj|C:\\Users\\duldul\\source\\repos\\ders_baslangic\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39F2E63-D2F0-4C6E-BF58-AF893BBFEC76}|ders_baslangic.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39F2E63-D2F0-4C6E-BF58-AF893BBFEC76}|ders_baslangic.csproj|C:\\Users\\duldul\\source\\repos\\ders_baslangic\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D39F2E63-D2F0-4C6E-BF58-AF893BBFEC76}|ders_baslangic.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39F2E63-D2F0-4C6E-BF58-AF893BBFEC76}|ders_baslangic.csproj|C:\\Users\\duldul\\source\\repos\\ders_baslangic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D39F2E63-D2F0-4C6E-BF58-AF893BBFEC76}|ders_baslangic.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39F2E63-D2F0-4C6E-BF58-AF893BBFEC76}|ders_baslangic.csproj|C:\\Users\\duldul\\source\\repos\\ders_baslangic\\baglati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39F2E63-D2F0-4C6E-BF58-AF893BBFEC76}|ders_baslangic.csproj|solutionrelative:baglati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39F2E63-D2F0-4C6E-BF58-AF893BBFEC76}|ders_baslangic.csproj|C:\\Users\\duldul\\source\\repos\\ders_baslangic\\admin_paneli.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39F2E63-D2F0-4C6E-BF58-AF893BBFEC76}|ders_baslangic.csproj|solutionrelative:admin_paneli.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39F2E63-D2F0-4C6E-BF58-AF893BBFEC76}|ders_baslangic.csproj|C:\\Users\\duldul\\source\\repos\\ders_baslangic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39F2E63-D2F0-4C6E-BF58-AF893BBFEC76}|ders_baslangic.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\duldul\\source\\repos\\ders_baslangic\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\duldul\\source\\repos\\ders_baslangic\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:29:23.148Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\source\\repos\\ders_baslangic\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\duldul\\source\\repos\\ders_baslangic\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:42:46.935Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\duldul\\source\\repos\\ders_baslangic\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\duldul\\source\\repos\\ders_baslangic\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:19:41.623Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\source\\repos\\ders_baslangic\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\duldul\\source\\repos\\ders_baslangic\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAnwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:53:59.246Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "admin_paneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\duldul\\source\\repos\\ders_baslangic\\admin_paneli.cs",
+              "RelativeDocumentMoniker": "admin_paneli.cs",
+              "ToolTip": "C:\\Users\\duldul\\source\\repos\\ders_baslangic\\admin_paneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "admin_paneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:26:30.338Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "admin_paneli.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\source\\repos\\ders_baslangic\\admin_paneli.cs",
+              "RelativeDocumentMoniker": "admin_paneli.cs",
+              "ToolTip": "C:\\Users\\duldul\\source\\repos\\ders_baslangic\\admin_paneli.cs",
+              "RelativeToolTip": "admin_paneli.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwMIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:30:10.944Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "baglati.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\source\\repos\\ders_baslangic\\baglati.cs",
+              "RelativeDocumentMoniker": "baglati.cs",
+              "ToolTip": "C:\\Users\\duldul\\source\\repos\\ders_baslangic\\baglati.cs",
+              "RelativeToolTip": "baglati.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:28:55.773Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "admin_paneli.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\duldul\\source\\repos\\ders_baslangic\\admin_paneli.Designer.cs",
+              "RelativeDocumentMoniker": "admin_paneli.Designer.cs",
+              "ToolTip": "C:\\Users\\duldul\\source\\repos\\ders_baslangic\\admin_paneli.Designer.cs",
+              "RelativeToolTip": "admin_paneli.Designer.cs",
+              "ViewState": "AgIAAKEBAAAAAAAAAAArwMUBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:00:23.489Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
